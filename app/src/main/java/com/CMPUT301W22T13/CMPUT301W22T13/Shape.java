@@ -3,7 +3,7 @@ package com.CMPUT301W22T13.CMPUT301W22T13;
 public abstract class Shape {
     protected int x;
     protected int y;
-    protected String color = "black";
+    String color = "black";
 
     public Shape(int x, int y) {
         this.x = x;
