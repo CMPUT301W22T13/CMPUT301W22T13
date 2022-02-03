@@ -4,6 +4,7 @@ public abstract class Shape {
 
     protected int x;
     protected int y;
+    String color = "maroon";
 
     public String color = "Magenta";
 
